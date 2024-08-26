@@ -6,6 +6,7 @@ Libraries: Pandas, BeautifulSoup
 
 Website Scraped: Wikipedia - List of Largest Companies by Revenue
 
+
 **Project Overview**
 
 This project is a web scraping application built with Python that extracts data from the Wikipedia page listing the world’s largest companies by revenue. The dataset includes the top 50 companies based on consolidated revenue, as reported in the Fortune Global 500 rankings for 2024. The companies span various industries and regions, including North America, Asia, and Europe, with annual revenues exceeding $130 billion.
