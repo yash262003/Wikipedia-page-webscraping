@@ -1,5 +1,5 @@
-**Web Scraping Project: Largest Companies by Revenue
-**
+**Web Scraping Project: Largest Companies by Revenue**
+
 Language: Python
 
 Libraries: Pandas, BeautifulSoup
