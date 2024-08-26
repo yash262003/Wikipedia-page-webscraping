@@ -1,6 +1,9 @@
 Web Scraping Project: Largest Companies by Revenue
+
 Language: Python
+
 Libraries: Pandas, BeautifulSoup
+
 Website Scraped: Wikipedia - List of Largest Companies by Revenue
 
 Project Overview
