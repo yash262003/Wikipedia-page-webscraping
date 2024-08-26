@@ -6,6 +6,8 @@ Libraries: Pandas, BeautifulSoup
 
 Website Scraped: Wikipedia - List of Largest Companies by Revenue
 
+Link: https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
+
 
 **Project Overview**
 
